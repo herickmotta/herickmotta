@@ -4,17 +4,17 @@ I am a brazilian junior developer.
 
 Here are some ideas about me:
 
-- 🌱 i’m currently learning Javascript | ReactJS | NodeJS ;
-- 👯 i’m looking to collaborate on products that will be used by many people ;
+- 🌱 i’m currently learning Javascript | ReactJS | NodeJS 
+- 👯 i’m looking to collaborate on products that will be used by many people 
 
 
 Here are somethings i like:
 
-- :page_with_curl: lists and data ;
-- :video_game: playing games ;
-- :see_no_evil: memes ;
-- :weight_lifting_man: powerlifting and bodybuilding ;
-- :iphone: gadgets ;
+- :page_with_curl: lists and data 
+- :video_game: playing games 
+- :see_no_evil: memes 
+- :weight_lifting_man: powerlifting and bodybuilding 
+- :iphone: gadgets 
 
 ## Find me
 
