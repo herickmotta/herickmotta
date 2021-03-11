@@ -5,7 +5,7 @@ I am a brazilian junior developer.
 Here are some ideas about me:
 
 - 🌱 i’m currently learning Javascript | ReactJS | NodeJS 
-- 👯 i’m looking to collaborate on products that will be used by many people 
+- 👯 i’m looking to collaborate on great products!
 
 
 Here are somethings i like:
@@ -18,7 +18,7 @@ Here are somethings i like:
 
 ## Find me
 
-I'm not a social media addict person but you can find me on:
+I'm not a social media addicted person but you can find me on:
 
 - [Linkedin](https://www.linkedin.com/in/herick-motta-aa2142167/)
 - [Instagram](https://www.instagram.com/herick.motta/)
