@@ -4,7 +4,7 @@ I am a brazilian junior developer.
 
 Here are some ideas about me:
 
-- 🌱 i’m currently learning Javascript | ReactJS | NodeJS 
+- 🌱 i’m currently learning Typescript | ReactJS | NodeJS 
 - 👯 i’m looking to collaborate on great products!
 
 
