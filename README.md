@@ -4,11 +4,11 @@ I am a brazilian junior developer.
 
 Here are some ideas about me:
 
-- 🌱 i’m currently learning Typescript | ReactJS | NodeJS 
-- 👯 i’m looking to collaborate on great products!
+- 🌱 I’m currently learning Typescript | ReactJS | NodeJS 
+- 👯 I’m looking to collaborate on great products!
 
 
-Here are somethings i like:
+Here are somethings I like:
 
 - :page_with_curl: lists and data 
 - :video_game: playing games 
