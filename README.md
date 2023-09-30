@@ -1,25 +1,25 @@
-# Hello! I'm Herick 👋
+# Welcome to My GitHub Profile!
 
-I am a brazilian junior developer.
+👋 Hello! I'm Herick, a Brazilian developer passionate about solving problems.
 
-Here are some ideas about me:
+## About Me
 
-- 🌱 i’m currently learning Typescript | ReactJS | NodeJS 
-- 👯 i’m looking to collaborate on great products!
+🏢 Throughout my career, I've had the opportunity to work with various technologies. However, my true enthusiasm lies in finding simple ways to solve problems with the right tools.
 
+🌐 Keep it simple!
 
-Here are somethings i like:
+## My Skills
 
-- :page_with_curl: lists and data 
-- :video_game: playing games 
-- :see_no_evil: memes 
-- :weight_lifting_man: powerlifting and bodybuilding 
-- :iphone: gadgets 
+- Golang.
+- NodeJS / Typescript.
+- React / Next
+- Postgres / MongoDB.
+- AWS: Cloud infrastructure / Terraform
+- Clean architecture.
+- Kubernetes and Helm Charts.
 
-## Find me
+## Contact
 
-I'm not a social media addicted person but you can find me on:
+🤝 I'm always open to collaborating on interesting and challenging projects. If you're looking for a professional who shares a passion for simplicity and efficiency, please feel free to get in touch.
 
-- [Linkedin](https://www.linkedin.com/in/herick-motta-aa2142167/)
-- [Instagram](https://www.instagram.com/herick.motta/)
-
+💼 You can find me here on GitHub, on my [LinkedIn](https://www.linkedin.com/in/herick-motta/), or send an email to contact@herickmotta.dev
